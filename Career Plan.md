@@ -18,15 +18,17 @@
         -	Modeling Rich Domains.
         -	Refactoring for Unit Tests.
  
-    >	Other courses:
+    > Other Courses:
         - Git and Github (Done).
         - Docker.
         - Jenkins.
         - Unit Tests.
         - Fork (Tool).
 
-•	Tools:
-    >
+
+•	Learn and/or practice:
+
+    > Tools:
         -	Fork.
         -	Git (Done).
         -   Github (Done).
@@ -34,18 +36,24 @@
         -   Jenkins.
         -   Visual Studio Code [CLI commands] (Doing).
 
+
 •	Certifications (2):
-    >	Microsoft:
+
+    > Microsoft:
         -	MTA : Software Development Fundamentals (Done).
         -	Any other (Suggestion: AZ-900).
 
+
 •	Extracurricular courses:
-    >	English Conversation:
+
+    > English Conversation:
         -	KNN Languages (Doing).
         -	Free4Talk (https://www.free4talk.com/).
 
+
 •	Personal Projects:
-    >    
+
+    > Backend: 
         -	API that consumes other API`s for monitoring.
  
 
@@ -68,7 +76,10 @@
         -   Building Web Apps with Angular and Redux.
         -   Creating PWAs with Angular 8, Ionic 4 and Firebase.
 
-    >	Other courses:
+
+•	Learn and/or practice:
+
+    > Other Courses / Tools:
         -	SOLID.
         -	Jenkins (in-depth).
         -	Kubernets.
@@ -76,17 +87,23 @@
         -	Redis.
         -	New Relic.
 
+
 •	Certifications (2):
-    >	
-        -   Any of C# / .Net.
-    	-   Any of SQL Server.
-        -  Any of AWS.
+
+    > Any of:
+        -   C# / .Net.
+    	-   SQL Server.
+        -   AWS.
+
 
 •	Extracurricular courses:
-    >	English Conversation (Stay close to fluency):
+
+    > English Conversation (Stay close to fluency):
         -	KNN Languages.
         -	Free4Talk (https://www.free4talk.com/).
 
+
 •	Personal Projects:
-    >   
+
+    > Backend: 
         -	Improve and adjust for the real case of the customer.
