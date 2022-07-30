@@ -92,7 +92,7 @@
 
     > Any of:
         -   C# / .Net.
-    	-   SQL Server.
+        -   SQL Server.
         -   AWS.
 
 
