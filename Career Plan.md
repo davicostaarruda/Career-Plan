@@ -2,15 +2,15 @@
 
 
 
-[ ——————————————————————————— June 2022 - December 2022 ——————————————————————————— ]
+[ ——————————— June 2022 - December 2022 ——————————— ]
 
 
 •	Software Development Courses:
 
     > Balta.io Backend .Net Career (https://balta.io/carreiras/desenvolvedor-backend-dotnet):
-        -	C# Fundamentals (Done).
-        -	Fundamentals of Object Orientation (Done).
-        -	SQL Server Fundamentals (Done).
+        -	[Done] C# Fundamentals.
+        -	[Done] Fundamentals of Object Orientation.
+        -	[Done] SQL Server Fundamentals.
         -	Data Access with .Net, C#, Dapper and SQL Server.
         -	Entity Framework Fundamentals.
         -	Asp.Net 6 Fundamentals.
@@ -19,21 +19,18 @@
         -	Refactoring for Unit Tests.
  
     > Other Courses:
-        - Git and Github (Done).
-        - Docker.
-        - Jenkins.
-        - Unit Tests.
-        - Fork (Tool).
+        -   [Done] Git and Github.
+        -   Git Actions.
+        -   Unit Tests.
 
 
 •	Learn and/or practice:
 
     > Tools:
-        -	Fork.
-        -	Git (Done).
-        -   Github (Done).
-        -   Docker.
-        -   Jenkins.
+        -	[Done] Git.
+        -   [Done] Github.
+        -   [Done] Docker (Basic).
+        -   [Done] Redis (Basic).
         -   Visual Studio Code [CLI commands] (Doing).
 
 
@@ -60,7 +57,7 @@
 
 
 
-[ ——————————————————————————— January 2023 - June 2023 ——————————————————————————— ]
+[ ——————————— January 2023 - June 2023 ——————————— ]
 
 
 •	Software Development Courses:
@@ -81,11 +78,11 @@
 
     > Other Courses / Tools:
         -	SOLID.
-        -	Jenkins (in-depth).
+        -	Git Actions (in-depth).
         -	Kubernets.
         -	Docker (in-depth).
-        -	Redis.
-        -	New Relic.
+        -	Distributed Cache (https://www.treinaweb.com.br/blog/implementando-cache-distribuido-no-asp-net-core   This tutorial uses Docker and Redis in ASP.NET Core).
+        -	Observability Patterns - New Relic (https://docs.microsoft.com/pt-br/dotnet/architecture/cloud-native/observability-patterns and/or https://dev.to/beatriz813/obsevabilidade-em-apis-asp-net-core-5cil and /or https://newrelic.com/instant-observability/dotnet-core/cbffd8f3-11db-40d7-a723-50e744485651).
 
 
 •	Certifications (2):
