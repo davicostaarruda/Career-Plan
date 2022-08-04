@@ -31,13 +31,13 @@
         -   [Done] Github.
         -   [Done] Docker (Basic).
         -   [Done] Redis (Basic).
-        -   Visual Studio Code [CLI commands] (Doing).
+        -   [Doing] Visual Studio Code [CLI commands].
 
 
 •	Certifications (2):
 
     > Microsoft:
-        -	MTA : Software Development Fundamentals (Done).
+        -	[Done] MTA : Software Development Fundamentals.
         -	Any other (Suggestion: AZ-900).
 
 
